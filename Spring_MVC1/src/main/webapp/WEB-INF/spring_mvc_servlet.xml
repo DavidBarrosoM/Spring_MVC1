@@ -12,7 +12,7 @@
         http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 
 	<!--  paquete a escanear en busca de componentes -->
-	<context:component-scan base-package="es.pildoras.spring.mvc" />
+	<context:component-scan base-package="es.eviden.mvc" />
 
 	<mvc:annotation-driven/>
 
